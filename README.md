@@ -1,9 +1,5 @@
 <h1 align="center">Hi There👋, I'm Ahmed Mahmoud</h1>
-<p align="center" ><img src="https://avatars.githubusercontent.com/u/59149922?s=400&u=43c3684016c96dc194985acbab64329223f7ddc0&v=4" alt="profile image"/></p> 
 <h3 align="center">Mobile app Developer | Flutter Developer</h3>
-
-
-
 
 - 🌱 I’m currently learning **FLUTTER Development**
 - ⚡ Fun fact **always learning**
