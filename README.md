@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Ahmed Mahmoud</h1>
-<h3 align="center">Mobile app Developer | Flutter Developer</h3>
+<h3 align="center">Mobile app Developer  |  Flutter Developer</h3>
 
 - 🌱 I’m currently learning **FLUTTER Development**
 - ⚡ Fun fact **always learning**
