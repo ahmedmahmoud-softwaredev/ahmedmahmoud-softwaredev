@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:00B4D8&height=200&section=header&text=Ahmed%20Mahmoud&fontSize=48&fontColor=E0E1DD&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%94%20Clean%20Architecture%20%2B%20Bloc%20%2B%20Firebase&descAlignY=58&descSize=18&descColor=A9C4D6" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Flutter+%2F+Dart+%2F+Clean+Architecture;Bloc+%26+Firebase+at+production+scale;Currently+architecting+apps+%40+The+Arab+Contractors;Cairo%2C+Egypt&font=Fira+Code&center=true&width=520&height=45&color=00B4D8&vCenter=true&size=20&pause=1800&duration=2800" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1800&color=00B4D8&center=true&vCenter=true&width=520&height=45&lines=Flutter+%2F+Dart+%2F+Clean+Architecture;Bloc+%26+Firebase+at+production+scale;Currently+architecting+apps+%40+The+Arab+Contractors;Cairo%2C+Egypt" alt="typing-svg" />
 
 <br/>
 
@@ -50,7 +50,7 @@ I default to Clean Architecture + MVVM with Bloc/Cubit — I'd rather spend an e
 **Payments & Auth**
 ![Paymob](https://img.shields.io/badge/Paymob-Payment_Gateway-1D1D1D?style=flat-square)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Sign-In](https://img.shields.io/badge/Google_Sign--In-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Sign In](https://img.shields.io/badge/Google_Sign_In-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -62,8 +62,8 @@ I default to Clean Architecture + MVVM with Bloc/Cubit — I'd rather spend an e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
@@ -73,7 +73,7 @@ I default to Clean Architecture + MVVM with Bloc/Cubit — I'd rather spend an e
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=ahmedmahmoud-softwaredev&icon=0&color=0" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=ahmedmahmoud-softwaredev&label=Profile+Views&color=00B4D8&style=flat-square" alt="profile views" />
 
 </div>
 
