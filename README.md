@@ -26,9 +26,6 @@ I default to Clean Architecture + MVVM with Bloc/Cubit — I'd rather spend an e
 
 **Languages**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Mobile & Architecture**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -62,18 +59,12 @@ I default to Clean Architecture + MVVM with Bloc/Cubit — I'd rather spend an e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=ahmedmahmoud-softwaredev&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedmahmoud-softwaredev&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="trophies" />
-
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=ahmedmahmoud-softwaredev&label=Profile+Views&color=00B4D8&style=flat-square" alt="profile views" />
 
 </div>
 
